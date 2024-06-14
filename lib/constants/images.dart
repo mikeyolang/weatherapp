@@ -1,0 +1,11 @@
+const String imageOne = 'assets/1.png';
+const String imageTwo = 'assets/2.png';
+const String imageThree = 'assets/3.png';
+const String imageFour = 'assets/4.png';
+const String imageFive = 'assets/5.png';
+const String imageSix = 'assets/6.png';
+const String imageSeven = 'assets/7.png';
+const String imageEleven = 'assets/11.png';
+const String imageTwelve = 'assets/12.png';
+const String imageThirteen = 'assets/13.png';
+const String imageFourteen = 'assets/14.png';
