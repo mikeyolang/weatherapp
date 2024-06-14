@@ -10,9 +10,12 @@ A Flutter project that displays the weather information of the user's current lo
 
 ### Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+
+<p >
+  <img src="./assets/screenshots/firstPic.png" alt="Screenshot 1" width="200"/>
+  <img src="./assets/screenshots/secondPic.png" alt="Screenshot 2" width="200"/>
+  <img src="./assets/screenshots/secondPic.png" alt="Screenshot 3" width="200"/>
+</p>
 
 ## Packages Used
 
@@ -36,22 +39,30 @@ A Flutter project that displays the weather information of the user's current lo
 ```sh
 git clone https://github.com/mikeyolang/weatherapp.git
 ```
+
 2. Navigate to the project directory:
+
 ```sh
 cd weatherapp
 ```
+
 3. Install the dependancies
+
 ```sh
 flutter pub get
 ```
+
 ### Running the App
+
 1. Connect your device or start an emulator.
-   
 2. Run the app:
-```sh   
+
+```sh
 flutter run
 ```
+
 ## Project Structure
+
 ```lua
 lib/
 |-- blocs/
@@ -60,15 +71,18 @@ lib/
 |   |-- home_screen.dart
 |-- main.dart
 ```
+
 - `blocs/`: Contains the BLoC (Business Logic Component) files for managing the state of the app.
 - `constants/`: Contains the images and the API key file.
 - `screens/`: Contains the UI of the app.
 - `main.dart`: The entry point of the app.
-  
+
 ## Usage
+
 - On app launch, the user will be prompted to allow location access.
 - If the user grants permission, the app will fetch and display the current weather information for the user's location using the OpenWeather API.
 
 ## Download APK
+
 You can download the APK file from the following link:
-[Download APK](https://openweathermap.org/api).
+[Download APK](https://drive.google.com/file/d/16dw0pNMtaFGYxR6gzEFLGGKXOfIwQqWE/view?usp=sharing).
