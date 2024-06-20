@@ -34,6 +34,8 @@ A Flutter project that displays the weather information of the user's current lo
 
 ### Installation
 
+0. Open terminal
+
 1. Clone the repository:
 
 ```sh
